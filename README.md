@@ -21,7 +21,7 @@ This project is a responsive design display a variety of products in different c
 
 ## Usage
 
-* __Clone Repository__:  git clone https://github.com/your-username/your-repository.git 
+* __Clone Repository__:  git clone https://github.com/0nikhilkumar/category-products.git 
 * __Open index.html__: Open the index.html file in your preferred web browser. 
 * __Explore Categories__: Click on Men, Women, or Kids tabs to explore products in different categories. 
 * __Responsive Experience__: Test the responsiveness by adjusting the screen size to see how the layout adapts. 
